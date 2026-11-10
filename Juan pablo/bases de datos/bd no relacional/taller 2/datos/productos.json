@@ -1,0 +1,81 @@
+[
+  {
+    "_id": "PRO-001",
+    "nombre": "Café Especial 500g",
+    "categoria": "Café",
+    "precio": 25000,
+    "stock": 15
+  },
+
+  {
+    "_id": "PRO-002",
+    "nombre": "Queso Campesino 1kg",
+    "categoria": "Lácteos",
+    "precio": 18000,
+    "stock": 0
+  },
+
+  {
+    "_id": "PRO-003",
+    "nombre": "Mora de Castilla 1kg",
+    "categoria": "Frutas",
+    "precio": 6000,
+    "stock": 40
+  },
+
+  {
+    "_id": "PRO-004",
+    "nombre": "Lechuga Crespa 1u",
+    "categoria": "Verduras",
+    "precio": 3000,
+    "stock": 0
+  },
+
+  {
+    "_id": "PRO-005",
+    "nombre": "Mermelada Artesanal 300g",
+    "categoria": "Procesados",
+    "precio": 12000,
+    "stock": 20
+  },
+
+  {
+    "_id": "PRO-006",
+    "nombre": "Aguacate Hass 1kg",
+    "categoria": "Frutas",
+    "precio": 9000,
+    "stock": 35
+  },
+
+  {
+    "_id": "PRO-007",
+    "nombre": "Yuca Criolla 1kg",
+    "categoria": "Verduras",
+    "precio": 4000,
+    "stock": 0
+  },
+
+  {
+    "_id": "PRO-008",
+    "nombre": "Miel Pureza 500ml",
+    "categoria": "Procesados",
+    "precio": 22000,
+    "stock": 10
+  },
+
+  {
+    "_id": "PRO-009",
+    "nombre": "Yogurt Natural 1L",
+    "categoria": "Lácteos",
+    "precio": 11000,
+    "stock": 18
+  },
+
+  {
+    "_id": "PRO-010",
+    "nombre": "Café molido Premium",
+    "categoria": "Café",
+    "precio": 60000,
+    "stock": 8
+  }
+]

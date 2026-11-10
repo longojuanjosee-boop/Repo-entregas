@@ -1,0 +1,121 @@
+[
+  {
+    "_id": "CLI-001",
+    "nombre": "Carlos Mendoza",
+    "direccion": {
+      "calle": "Calle 10",
+      "numero": "10-10",
+      "barrio": "Barrio San Juan"
+    },
+    "tipo": "Persona",
+    "telefono": "3110001111"
+  },
+
+  {
+    "_id": "CLI-002",
+    "nombre": "Restaurante El Fuego",
+    "direccion": {
+      "calle": "Calle 20",
+      "numero": "20-20",
+      "barrio": "Barrio San Sebastián"
+    },
+    "tipo": "Restaurante",
+    "telefono": "3120002222"
+  },
+
+  {
+    "_id": "CLI-003",
+    "nombre": "Tienda La Abundancia",
+    "direccion": {
+      "calle": "Calle 30",
+      "numero": "30-30",
+      "barrio": "Barrio San Pedro"
+    },
+    "tipo": "Tienda",
+    "telefono": "3130003333"
+  },
+
+  {
+    "_id": "CLI-004",
+    "nombre": "María Gómez",
+    "direccion": {
+      "calle": "Calle 40",
+      "numero": "40-40",
+      "barrio": "Barrio San Juan"
+    },
+    "tipo": "Persona",
+    "telefono": "3140004444"
+  },
+
+  {
+    "_id": "CLI-005",
+    "nombre": "Bistro Popayán",
+    "direccion": {
+      "calle": "Calle 50",
+      "numero": "50-50",
+      "barrio": "Barrio San Juan"
+    },
+    "tipo": "Restaurante",
+    "telefono": "3150005555"
+  },
+
+  {
+    "_id": "CLI-006",
+    "nombre": "Supermercado El Valle",
+    "direccion": {
+      "calle": "Calle 60",
+      "numero": "60-60",
+      "barrio": "Barrio San Sebastián"
+    },
+    "tipo": "Tienda",
+    "telefono": "3160006666"
+  },
+
+  {
+    "_id": "CLI-007",
+    "nombre": "Salsa & Sabor Resto",
+    "direccion": {
+      "calle": "Calle 70",
+      "numero": "70-70",
+      "barrio": "Barrio San Juan"
+    },
+    "tipo": "Restaurante",
+    "telefono": "3170007777"
+  },
+
+  {
+    "_id": "CLI-008",
+    "nombre": "Felipe Ruiz",
+    "direccion": {
+      "calle": "Calle 80",
+      "numero": "80-80",
+      "barrio": "Barrio San Juan"
+    },
+    "tipo": "Persona",
+    "telefono": "3180008888"
+  },
+
+  {
+    "_id": "CLI-009",
+    "nombre": "Minimarket El Carmen",
+    "direccion": {
+      "calle": "Calle 90",
+      "numero": "90-90",
+      "barrio": "Barrio San Sebastián"
+    },
+    "tipo": "Tienda",
+    "telefono": "3190009999"
+  },
+
+  {
+    "_id": "CLI-010",
+    "nombre": "Ana Lucía Ortiz",
+    "direccion": {
+      "calle": "Calle 100",
+      "numero": "100-100",
+      "barrio": "Barrio San Juan"
+    },
+    "tipo": "Persona",
+    "telefono": "3100000000"
+  }
+]

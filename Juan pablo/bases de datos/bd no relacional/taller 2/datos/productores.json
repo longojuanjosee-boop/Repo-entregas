@@ -1,0 +1,81 @@
+[
+  {
+    "_id": "PROD-001",
+    "nombre": "Finca La Esperanza",
+    "municipio": "Popayán",
+    "activo": true,
+    "certificaciones": ["Orgánico", "Comercio Justo"]
+  },
+
+  {
+    "_id": "PROD-002",
+    "nombre": "Agro El Tambo",
+    "municipio": "El Tambo",
+    "activo": true,
+    "certificaciones": []
+  },
+
+  {
+    "_id": "PROD-003",
+    "nombre": "Cultivos Cajibío",
+    "municipio": "Cajibío",
+    "activo": true,
+    "certificaciones": ["GlobalGAP"]
+  },
+
+  {
+    "_id": "PROD-004",
+    "nombre": "Parcela Timbío",
+    "municipio": "Timbío",
+    "activo": true,
+    "certificaciones": []
+  },
+
+  {
+    "_id": "PROD-005",
+    "nombre": "Orgánicos del Cauca",
+    "municipio": "Popayán",
+    "activo": false,
+    "certificaciones": ["BPM"]
+  },
+
+  {
+    "_id": "PROD-006",
+    "nombre": "Frutas del Tambo",
+    "municipio": "El Tambo",
+    "activo": true,
+    "certificaciones": ["Orgánico"]
+  },
+
+  {
+    "_id": "PROD-007",
+    "nombre": "Hortalizas Cajibío",
+    "municipio": "Cajibío",
+    "activo": true,
+    "certificaciones": ["Ecológico"]
+  },
+
+  {
+    "_id": "PROD-008",
+    "nombre": "Café Timbío",
+    "municipio": "Timbío",
+    "activo": true,
+    "certificaciones": ["Rainforest Alliance"]
+  },
+
+  {
+    "_id": "PROD-009",
+    "nombre": "Llácteos Popayán",
+    "municipio": "Popayán",
+    "activo": true,
+    "certificaciones": ["HACCP"]
+  },
+
+  {
+    "_id": "PROD-010",
+    "nombre": "Sembrados del Sur",
+    "municipio": "El Tambo",
+    "activo": true,
+    "certificaciones": ["Orgánico"]
+  }
+]

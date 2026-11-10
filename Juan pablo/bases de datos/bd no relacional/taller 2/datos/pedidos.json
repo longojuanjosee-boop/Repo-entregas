@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "PED-001",
+    "cliente_id": "CLI-001",
+    "fecha": { "$date": "2026-09-05T08:30:00Z" },
+    "estado": "Pendiente",
+    "metodo_pago": "Nequi",
+    "items": [
+      { "producto_id": "PRD-001", "cantidad": 2, "precio_unitario": 25000 }
+    ]
+  },
+  {
+    "_id": "PED-002",
+    "cliente_id": "CLI-002",
+    "fecha": { "$date": "2026-09-15T14:20:00Z" },
+    "estado": "Pagado",
+    "metodo_pago": "PSE",
+    "items": [
+      { "producto_id": "PRD-003", "cantidad": 5, "precio_unitario": 6000 },
+      { "producto_id": "PRD-005", "cantidad": 2, "precio_unitario": 12000 }
+    ]
+  },
+  {
+    "_id": "PED-003",
+    "cliente_id": "CLI-003",
+    "fecha": { "$date": "2026-09-28T11:00:00Z" },
+    "estado": "Enviado",
+    "metodo_pago": "Efectivo",
+    "items": [
+      { "producto_id": "PRD-006", "cantidad": 3, "precio_unitario": 9000 },
+      { "producto_id": "PRD-008", "cantidad": 1, "precio_unitario": 22000 },
+      { "producto_id": "PRD-009", "cantidad": 4, "precio_unitario": 11000 }
+    ]
+  },
+  {
+    "_id": "PED-004",
+    "cliente_id": "CLI-004",
+    "fecha": { "$date": "2026-10-02T09:45:00Z" },
+    "estado": "Entregado",
+    "metodo_pago": "Daviplata",
+    "items": [
+      { "producto_id": "PRD-010", "cantidad": 1, "precio_unitario": 60000 },
+      { "producto_id": "PRD-001", "cantidad": 1, "precio_unitario": 25000 },
+      { "producto_id": "PRD-003", "cantidad": 2, "precio_unitario": 6000 },
+      { "producto_id": "PRD-005", "cantidad": 1, "precio_unitario": 12000 }
+    ]
+  },
+  {
+    "_id": "PED-005",
+    "cliente_id": "CLI-005",
+    "fecha": { "$date": "2026-10-10T16:15:00Z" },
+    "estado": "Cancelado",
+    "metodo_pago": "Nequi",
+    "items": [
+      { "producto_id": "PRD-002", "cantidad": 2, "precio_unitario": 18000 }
+    ]
+  },
+  {
+    "_id": "PED-006",
+    "cliente_id": "CLI-006",
+    "fecha": { "$date": "2026-10-22T10:00:00Z" },
+    "estado": "Pagado",
+    "metodo_pago": "Daviplata",
+    "items": [
+      { "producto_id": "PRD-004", "cantidad": 4, "precio_unitario": 3000 },
+      { "producto_id": "PRD-007", "cantidad": 5, "precio_unitario": 4000 }
+    ]
+  },
+  {
+    "_id": "PED-007",
+    "cliente_id": "CLI-007",
+    "fecha": { "$date": "2026-11-01T12:30:00Z" },
+    "estado": "Entregado",
+    "metodo_pago": "PSE",
+    "items": [
+      { "producto_id": "PRD-008", "cantidad": 2, "precio_unitario": 22000 },
+      { "producto_id": "PRD-009", "cantidad": 3, "precio_unitario": 11000 },
+      { "producto_id": "PRD-010", "cantidad": 1, "precio_unitario": 60000 }
+    ]
+  },
+  {
+    "_id": "PED-008",
+    "cliente_id": "CLI-008",
+    "fecha": { "$date": "2026-11-05T15:00:00Z" },
+    "estado": "Pendiente",
+    "metodo_pago": "Efectivo",
+    "items": [
+      { "producto_id": "PRD-003", "cantidad": 10, "precio_unitario": 6000 }
+    ]
+  },
+  {
+    "_id": "PED-009",
+    "cliente_id": "CLI-009",
+    "fecha": { "$date": "2026-11-08T18:20:00Z" },
+    "estado": "Enviado",
+    "metodo_pago": "Nequi",
+    "items": [
+      { "producto_id": "PRD-001", "cantidad": 1, "precio_unitario": 25000 },
+      { "producto_id": "PRD-006", "cantidad": 2, "precio_unitario": 9000 }
+    ]
+  },
+  {
+    "_id": "PED-010",
+    "cliente_id": "CLI-999",
+    "fecha": { "$date": "2026-11-10T08:00:00Z" },
+    "estado": "Pagado",
+    "metodo_pago": "PSE",
+    "items": [
+      { "producto_id": "PRD-005", "cantidad": 3, "precio_unitario": 12000 }
+    ]
+  }
+]
